@@ -3,7 +3,7 @@
 
 ## You can see all projects in action here
 
-[All Projects Demo's](https://www.vanillajavascriptprojects.com/)
+[All Projects Demo's 🚀]( https://gulshanitsyou.github.io/JsProjects/)
 
 1. Color Flipper
 2. Counter
